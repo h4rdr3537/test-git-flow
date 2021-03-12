@@ -1,15 +1,6 @@
 add line 1
- 
- line 3
+add line 2
 
- line 5
+codecamp
 
- line 6
-
- line 7
-
- line 8
-
- line 9
-
-line 10
+student
