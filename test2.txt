@@ -1,1 +1,5 @@
 add text in to file test 2
+
+add some text
+
+add something
